@@ -1,4 +1,4 @@
-# Building Nested Hashes Code Along
+# Building Nested Hashes Code-Along Part 1
 
 ## Learning Goals
 
